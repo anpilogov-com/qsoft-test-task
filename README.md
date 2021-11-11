@@ -29,7 +29,7 @@
 
 ## `GitHub Pages`
 
-[**`Посмотреть страницу можно тут`**](https://anpilogov-com.github.io/european-legal-ervice/index.html)
+[**`Посмотреть страницу можно тут`**](https://anpilogov-com.github.io/qsoft-test-task/)
  
 ## Lighthouse
 
