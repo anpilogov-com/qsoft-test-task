@@ -25,10 +25,11 @@ window.onresize = () => {
 
 function userElementViewChenge() {
    const VW = Math.max(document.documentElement.clientWidth);
-   const USER__AVATAR__OUTLINE = "/images/user.svg";
+   const USER__AVATAR__OUTLINE =
+      "https://raw.githubusercontent.com/anpilogov-com/qsoft-test-task/cee209a84224eaf44edb3886aa403c771e3ca288/images/user.svg";
 
    let userName = "Константин";
-   let userAvatar = "/images/png/userAvatar.png";
+   let userAvatar = "https://raw.githubusercontent.com/anpilogov-com/qsoft-test-task/main/images/png/userAvatar.png";
 
    if (VW >= 768) {
       userElementView(userName, userAvatar);
