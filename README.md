@@ -41,7 +41,7 @@
 
 📱 Для телефонов 📱
 
-![Google Lighthouse research for desktop](https://github.com/anpilogov-com/european-legal-ervice/blob/main/documentation/mobile.png) 
+![Google Lighthouse research for desktop](https://raw.githubusercontent.com/anpilogov-com/qsoft-test-task/main/images/mobile.png) 
 
 ## Контакты
 
