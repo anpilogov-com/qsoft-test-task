@@ -37,7 +37,7 @@
 
 🖥 Для рабочего стола 🖥
 
-![Google Lighthouse research for desktop](https://github.com/anpilogov-com/european-legal-ervice/blob/main/documentation/desktop-1.png) 
+![Google Lighthouse research for desktop](https://raw.githubusercontent.com/anpilogov-com/qsoft-test-task/main/images/desktop.png) 
 
 📱 Для телефонов 📱
 
